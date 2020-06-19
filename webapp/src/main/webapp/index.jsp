@@ -1,5 +1,5 @@
 <html>
- <h1> Welcome To Simple Devops Project!!!!</h1>
+ <h1> Welcome To Simple Devops Project</h1>
  <h1>Deploying On Kubernetes Using Ansible Playbook</h1>
  <h1>Title: VakeelSaab</h1>
  <h1>Cast: Pawan Kalyan, Anjali,
